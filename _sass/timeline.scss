@@ -95,11 +95,11 @@
     box-sizing: border-box;
     position: relative;
   }
-  
-  h6 {
+
+  .timeline-text h6 {
     color: rgb(0, 0, 0);
     font-weight: 900;
-    // display: inline-block;
+    display: inline-block;
     font-size: 1rem;
 
     left: -80px;
@@ -122,12 +122,12 @@
     left: -6px;
     background: #efa22f;
   }
-  // .single-timeline:nth-child(even) {
-  //   -webkit-box-orient: horizontal;
-  //   -webkit-box-direction: reverse;
-  //   -ms-flex-direction: row-reverse;
-  //   flex-direction: row-reverse;
-  // }
+  .single-timeline:nth-child .timeline-text h6{
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
+  }
   // .single-timeline:nth-child(even) .t-square {
   //   right: -6px;
   //   left: unset;
