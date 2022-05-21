@@ -101,8 +101,7 @@
     display: inline-block;
     font-size: 1rem;
 
-    left: -30px;
-    right: 0px;
+    left: -80px;
   }
   .timeline-text span {
     color: rgb(0, 0, 0);
@@ -122,12 +121,12 @@
     left: -6px;
     background: #efa22f;
   }
-  // .single-timeline:nth-child(even) {
-  //   -webkit-box-orient: horizontal;
-  //   -webkit-box-direction: reverse;
-  //   -ms-flex-direction: row-reverse;
-  //   flex-direction: row-reverse;
-  // }
+  .single-timeline:nth-child(even) {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
+  }
   // .single-timeline:nth-child(even) .t-square {
   //   right: -6px;
   //   left: unset;
