@@ -47,7 +47,7 @@
         height: $image-size;
         width: $image-size;
         position: relative;
-        margin: 25px 0 0 140px;
+        margin: 50px 0 0 140px;
         float: left;
         border-radius: 50%;
 
@@ -58,7 +58,7 @@
 
         @media (max-width: $sm-width) {
             img {
-                margin-top: -20px;
+                margin-top: -5px;
             }
         }
     }
