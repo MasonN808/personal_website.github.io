@@ -141,24 +141,24 @@
       right: unset;
       top: 0;
     }
-    .single-timeline:nth-child(2n) .timeline-text {
-      padding-left: 30px;
-      padding-right: 0;
-      text-align: left;
-    }
-    .single-timeline:nth-child(2n) .t-square {
-      left: -6px;
-      right: unset;
-    }
+    // .single-timeline:nth-child(2n) .timeline-text {
+    //   padding-left: 30px;
+    //   padding-right: 0;
+    //   text-align: left;
+    // }
+    // .single-timeline:nth-child(2n) .t-square {
+    //   left: -6px;
+    //   right: unset;
+    // }
     .timeline-blank {
       display: none;
     }
     .timeline-text {
       width: 100%;
     }
-    .single-timeline:nth-child(even) .timeline-text span {
-      text-align: left !important;
-    }
+    // .single-timeline:nth-child(even) .timeline-text span {
+    //   text-align: left !important;
+    // }
   }
   @media all and (max-width: 575px) {
   }
