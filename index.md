@@ -95,11 +95,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Small image
 
-![Gebeto](https://github.com/MasonN808/personal_website/assets/img/Mason_Photo.JPG)
+![photo](https://github.com/MasonN808/personal_website/assets/img/Mason_Photo.jpg)
 
 ### Large image
 
-![Branching](https://github.com/MasonN808/personal_website/assets/img/Mason_Photo.JPG)
+![Branching](https://github.com/MasonN808/personal_website/assets/img/Mason_Photo.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
