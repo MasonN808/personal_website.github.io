@@ -95,7 +95,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Small image
 
-![photo](https://github.com/MasonN808/personal_website/assets/img/Mason_Photo.jpg)
+![photo](./assets/img/Mason_Photo.jpg)
 
 ### Large image
 
