@@ -86,4 +86,19 @@
         padding: 5px -10px 0px 10x;
         // margin: 5px 0px 10 0px; // add some padding since looks off
     }
+
+    // For columns in site
+
+    .column {
+        float: left;
+    }
+
+    .picture-column {
+        width: 20%;
+    }
+
+    .text-column {
+        width: 80%;
+    }
+
 }
