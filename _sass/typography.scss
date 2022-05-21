@@ -69,14 +69,17 @@
     .fa-github {
         color: black;
         display: inline-block;
+        padding: 0px 0px 0px 2px;
       }
     .fa-linkedin-square {
         color: black;
         display: inline-block;
+        padding: 0px 0px 0px 2px;
       }
     .fa-file {
         color: black;
         display: inline-block;
-        margin: -2px 0 0 0px; // add some padding since looks off
+        padding: 0px 0px 0px 2px;
+        margin: 2px 0 0 0px; // add some padding since looks off
     }
 }
