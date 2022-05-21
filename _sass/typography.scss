@@ -46,8 +46,11 @@
     .picture-column {
         width: 35%;
         .profile-picture {
-            height: $image-size;
-            width: $image-size;
+            // height: $image-size;
+            // width: $image-size;
+            object-fit: cover;
+            width: 100%;
+            height: 100%;
             position: relative;
             // margin: 50px 0 0 140px;
             padding: 10px 0 0 20px;
