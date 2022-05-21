@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# About
 I'm currently a senior undergraduate at Marist College, majoring in Applied Mathematics and Data Science with a minor in Computer Science. My research interests lie in optimization algorithms, deep learning architectures, reinforcement learning, and ethical oversight of AI algorithms.
 
 
