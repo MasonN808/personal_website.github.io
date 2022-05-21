@@ -1,12 +1,12 @@
 title: Mason Nakamura
-logo: /assets/img/Mason_Photo.JPG
+logo: /assets/img/MasonPhoto.JPG
 description: Personal Website
-show_downloads: true
+show_downloads: false
 google_analytics: G-HK6QKBXJ34
 remote_theme: gebeto/researcher
 
-footer: "Page design by Ankit Sultana"
-footer_url: "https://github.com/ankitsultana"
+# footer: "Page design by Ankit Sultana"
+# footer_url: "https://github.com/ankitsultana"
 
 plugins:
   - jekyll-seo-tag
