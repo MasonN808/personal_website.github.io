@@ -66,6 +66,7 @@
                 margin: 0 auto; // center picture in middle of screen
                 float: unset;
                 text-align: center;
+                width: 100%
 
 
                 img {
@@ -110,6 +111,12 @@
     // }
 
     .text-column {
+        @media (max-width: $sm-width) {
+            margin: 0 auto; // center picture in middle of screen
+            float: unset;
+            text-align: center;
+            width: 100%
+        }
         width: 65%;
     }
 
