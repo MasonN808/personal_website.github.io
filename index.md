@@ -6,7 +6,7 @@ layout: default
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-<img style="float: left;" src="./assets/img/Mason_Photo.jpg" alt="drawing" width="200"/>
+<img style="float: left;" src="./assets/img/MasonPhoto.jpg" alt="drawing" width="200"/>
 
 
 ## Header 2
