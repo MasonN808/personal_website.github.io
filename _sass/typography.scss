@@ -62,13 +62,24 @@
         }
     }
 
-    img {
-        display: block;
-        text-align: center;
-        // max-width: 100%;
-        width: 50%;
-        margin-left: auto;
-        margin-right: auto;
-
+    .img-with-text {
+        text-align: justify;
+        width: 15%;
+        object-position: 50px 30px;
     }
+    
+    .img-with-text img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    // img {
+    //     display: block;
+    //     text-align: center;
+    //     // max-width: 100%;
+    //     width: 15%;
+    //     margin-left: auto;
+    //     margin-right: auto;
+
+    // }
 }
