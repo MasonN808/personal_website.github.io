@@ -95,7 +95,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Small image
 
-![Gebeto](https://avatars1.githubusercontent.com/u/13422799?s=150)
+![Gebeto](https://github.com/MasonN808/personal_website/assets/img/Mason_Photo.JPG)
 
 ### Large image
 
