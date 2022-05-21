@@ -62,6 +62,10 @@
         }
     }
 
+    .force-in-line{
+        display: inline-block;
+    }
+    
     .fa-github {
         color: black;
         display: inline-block;
@@ -70,4 +74,8 @@
         color: black;
         display: inline-block;
       }
+    .fa-file {
+        color: black;
+        display: inline-block;
+    }
 }
