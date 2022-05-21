@@ -99,7 +99,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://github.com/MasonN808/personal_website/assets/img/Mason_Photo.JPG)
 
 
 ### Definition lists can be used with HTML syntax.
