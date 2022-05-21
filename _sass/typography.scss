@@ -61,6 +61,8 @@
             @media (max-width: $sm-width) {
                 margin: 0 auto; // center picture in middle of screen
                 float: unset;
+                text-align: center;
+
 
                 img {
                     margin-top: -5px;
