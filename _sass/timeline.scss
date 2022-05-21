@@ -94,14 +94,13 @@
     box-sizing: border-box;
     position: relative;
   }
-  
   .timeline-text h6 {
     color: rgb(0, 0, 0);
     font-weight: 900;
     display: inline-block;
     font-size: 1rem;
 
-    padding-left: 30px;
+    padding-left: -30px;
     padding-right: 0;
     text-align: left;
   }
@@ -122,9 +121,6 @@
     height: 12px;
     left: -6px;
     background: #efa22f;
-
-    right: -6px;
-    left: unset;
   }
   // .single-timeline:nth-child(even) {
   //   -webkit-box-orient: horizontal;
