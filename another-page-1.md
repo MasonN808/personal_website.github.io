@@ -5,8 +5,8 @@ title: Contact
 nav_order: 1
 ---
 
-## Welcome to another page 1
-
-_yay_
+# Contact Information
+Work Email: Mason.Nakamura1@marist.edu
+Personal Email: Mason.naka@gmail.com
 
 [back](./)

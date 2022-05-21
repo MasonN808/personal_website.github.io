@@ -5,8 +5,8 @@ title: Blog
 nav_order: 2
 ---
 
-## Welcome to another page 2
-
-_yay_
+# Research Blog on Metareasoning in Autonomous Systems
+This is the start of my research blog as a visiting student scholar at the Center for Human-Compatible Artificial
+Intelligence (CHAI) under the supervison of Dr. Justin Svegliato.
 
 [back](./)
