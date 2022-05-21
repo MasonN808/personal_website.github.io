@@ -1,7 +1,7 @@
 ---
-layout: default
-category: Resume
-title: Resume
+layout: default_2
+category: Blog
+title: Blog
 nav_order: 2
 ---
 
