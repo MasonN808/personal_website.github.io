@@ -103,7 +103,7 @@
   }
 
   .timeline-text h6 {
-    position: relative;
+    // position: relative;
     // float: left;
     color: rgb(0, 0, 0);
     font-weight: 900;
@@ -137,7 +137,7 @@
     top: 6px;
     background: #efa22f;
   }
-  .single-timeline h6 {
+  .single-timeline .timeline-text h6 {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
     -ms-flex-direction: row-reverse;
