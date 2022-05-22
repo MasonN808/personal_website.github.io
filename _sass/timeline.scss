@@ -185,9 +185,11 @@
     //   text-align: left !important;
     // }
     .timeline-text h6 {
-      position: absolute;
+      // position: absolute;
       left: 0;
       text-align: left;
+      padding-left: 30px;
+
       // left: -80px;
     }
   }
