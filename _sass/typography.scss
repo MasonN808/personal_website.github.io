@@ -85,15 +85,19 @@
         display: block;
     }
 
+    .fa {
+        padding: 10px 0px 0px 20px;
+    }
+
     .fa-github {
         color: black;
         display: inline;
-        padding: 5px 0px 0px 10px;
+        // padding: 5px 0px 0px 10px;
       }
     .fa-linkedin-square {
         color: black;
         display: inline;
-        padding: 5px 0px 0px 10px;
+        // padding: 5px 0px 0px 10px;
       }
     .fa-file {
         position: relative;
@@ -101,7 +105,7 @@
         top: -6px;
         color: black;
         display: inline;
-        padding: 5px -10px 0px 10x;
+        padding: 20px 20px 0px 0x;
         // margin: 5px 0px 10 0px; // add some padding since looks off
     }
 
