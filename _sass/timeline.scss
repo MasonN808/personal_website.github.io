@@ -184,6 +184,12 @@
     // .single-timeline:nth-child(even) .timeline-text span {
     //   text-align: left !important;
     // }
+    .timeline-text h6 {
+      position: absolute;
+      left: 0;
+      text-align: left;
+      // left: -80px;
+    }
   }
   @media all and (max-width: 575px) {
   }
@@ -192,10 +198,5 @@
       top: 32px;
     }
 
-    .timeline-text h6 {
-      position: absolute;
-      left: 0;
-      text-align: left;
-      // left: -80px;
-    }
+
   }
