@@ -137,6 +137,8 @@
     -webkit-box-direction: reverse;
     -ms-flex-direction: row-reverse;
     flex-direction: row-reverse;
+    float: left;
+    left: -40px;
   }
   // .single-timeline:nth-child(even) .t-square {
   //   right: -6px;
