@@ -120,4 +120,8 @@
         width: 65%;
     }
 
+    @media (max-width: $sm-width) {
+        flex-direction: column;
+    }
+
 }
