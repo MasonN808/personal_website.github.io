@@ -48,14 +48,14 @@
         .profile-picture {
             // height: $image-size;
             // width: $image-size;
-            object-fit: cover;
+            object-fit: contain;
             width: 15%;
             height: 15%;
             position: relative;
             // margin: 50px 0 0 140px;
 
-            padding-left: 90vw;
             padding: 10px 0 0 20px;
+            padding-left: 90vw;
             float: left;
             border-radius: 50%;
 
@@ -124,13 +124,13 @@
 
     .text-column {
         float: left;
+        width: 65%;
         @media (max-width: 800px) {
             margin: 0 auto; // center picture in middle of screen
             // float: unset;
             text-align: left;
             width: 100%
         }
-        width: 65%;
     }
 
     @media (max-width: 800px) {
