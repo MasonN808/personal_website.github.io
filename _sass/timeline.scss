@@ -104,7 +104,7 @@
 
   .timeline-text h6 {
     position: absolute;
-    // float: left;
+    float: left;
     color: rgb(0, 0, 0);
     font-weight: 900;
     // display: inline-block;
@@ -133,7 +133,7 @@
     top: 2px;
     background: #efa22f;
   }
-  .single-timeline .timeline-text {
+  .single-timeline .timeline-text h6{
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
     -ms-flex-direction: row-reverse;
