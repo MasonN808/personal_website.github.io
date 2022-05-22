@@ -1,12 +1,14 @@
-<!-- ---
-layout: default
-category: About
-title: About
+---
+layout: default_2
+category: Honors
+title: Honors
 nav_order: 3
 ---
 
-## Welcome to another page 3
+## Undergraduate Honors
 
-_yay_
+<ul>
+    <li>International Mathematics Competition 3rd Prize</li>-<span color: red>different styles</span>
 
-[back](./) -->
+</ul>
+[back](./)

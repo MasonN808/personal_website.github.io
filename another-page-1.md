@@ -2,10 +2,10 @@
 layout: default_2
 category: Contact
 title: Contact
-nav_order: 1
+nav_order: 3
 ---
 
-# Contact Information
+## Contact Information
 Work Email: Mason.Nakamura1@marist.edu <br>
 Personal Email: Mason.naka@gmail.com
 

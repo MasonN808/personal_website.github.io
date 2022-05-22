@@ -2,7 +2,7 @@
 layout: default_2
 category: Blog
 title: Blog
-nav_order: 2
+nav_order: 1
 ---
 
 # Research Blog on 
