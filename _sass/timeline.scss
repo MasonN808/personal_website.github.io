@@ -79,7 +79,7 @@
     position: absolute;
     left: 0;
     right: 0;
-    // margin: auto;
+    margin: auto;
     height: 100%;
     width: 2px;
     background: #efa22f;
@@ -134,10 +134,11 @@
     background: #efa22f;
   }
   .single-timeline .timeline-text h6{
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: reverse;
-    -ms-flex-direction: row-reverse;
-    flex-direction: row-reverse;
+    // -webkit-box-orient: horizontal;
+    // -webkit-box-direction: reverse;
+    // -ms-flex-direction: row-reverse;
+    // flex-direction: row-reverse;
+    text-align: right;
   }
   // .single-timeline:nth-child(even) .t-square {
   //   right: -6px;
