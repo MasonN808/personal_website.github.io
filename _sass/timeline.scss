@@ -105,11 +105,11 @@
   }
 
   .timeline-text h6 {
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: reverse;
-    -ms-flex-direction: row-reverse;
-    flex-direction: row-reverse;
-    position: absolute;
+    // -webkit-box-orient: horizontal;
+    // -webkit-box-direction: reverse;
+    // -ms-flex-direction: row-reverse;
+    // flex-direction: row-reverse;
+    // position: absolute;
     // float: left;
     color: rgb(0, 0, 0);
     font-weight: 900;
@@ -180,6 +180,11 @@
     }
     .timeline-text {
       width: 100%;
+    }
+    .timeline-text h6 {
+      left: 0;
+      text-align: left;
+      // left: -80px;
     }
     // .single-timeline:nth-child(even) .timeline-text span {
     //   text-align: left !important;
