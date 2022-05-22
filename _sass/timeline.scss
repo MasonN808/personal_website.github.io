@@ -109,7 +109,7 @@
     // -webkit-box-direction: reverse;
     // -ms-flex-direction: row-reverse;
     // flex-direction: row-reverse;
-    // position: absolute;
+    position: absolute;
     // float: left;
     color: rgb(0, 0, 0);
     font-weight: 900;
@@ -192,9 +192,9 @@
       top: 32px;
     }
 
-    // .timeline-text h6 {
-    //   left: 0;
-    //   text-align: left;
-    //   // left: -80px;
-    // }
+    .timeline-text h6 {
+      left: 0;
+      text-align: left;
+      // left: -80px;
+    }
   }
