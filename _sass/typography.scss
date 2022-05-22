@@ -64,7 +64,7 @@
                 margin: 0;
             }
 
-            @media (max-width: 800px) {
+            @media (max-width: 1016px) {
                 margin: 0 auto; // center picture in middle of screen
                 float: unset;
                 text-align: center;
@@ -75,7 +75,7 @@
                 }
             }
         }
-        @media (max-width: 800px) {
+        @media (max-width: 1016px) {
             margin: 0 auto; // center picture in middle of screen
             float: unset;
             text-align: center;
@@ -125,7 +125,7 @@
     .text-column {
         float: left;
         width: 65%;
-        @media (max-width: 800px) {
+        @media (max-width: 1016px) {
             margin: 0 auto; // center picture in middle of screen
             // float: unset;
             text-align: left;
@@ -133,7 +133,7 @@
         }
     }
 
-    @media (max-width: 800px) {
+    @media (max-width: 1016px) {
         flex-direction: column;
     }
 
