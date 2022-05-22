@@ -136,11 +136,11 @@
     top: 6px;
     background: #efa22f;
   }
-  .single-timeline .timeline-text .h6 {
-    // -webkit-box-orient: horizontal;
-    // -webkit-box-direction: reverse;
-    // -ms-flex-direction: row-reverse;
-    // flex-direction: row-reverse;
+  .single-timeline .timeline-text h6 {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
     padding-left: 0;
     padding-right: 30px;
     text-align: right;
