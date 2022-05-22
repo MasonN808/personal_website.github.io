@@ -6,7 +6,8 @@ nav_order: 3
 ---
 
 ## Contact Information
-Work Email: Mason.Nakamura1@marist.edu <br>
-Personal Email: Mason.naka@gmail.com
+Work Email (1): Mason.Nakamura1@marist.edu <br>
+Work Email (2): Mason.Nakamura1@berkeley.edu <br>
+Personal Email: Mason.Naka@gmail.com
 
 [back](./)
