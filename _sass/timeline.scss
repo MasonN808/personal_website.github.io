@@ -130,6 +130,7 @@
     width: 12px;
     height: 12px;
     left: -6px;
+    top: 2px;
     background: #efa22f;
   }
   .single-timeline:nth-child .timeline-text h6{
@@ -137,8 +138,6 @@
     -webkit-box-direction: reverse;
     -ms-flex-direction: row-reverse;
     flex-direction: row-reverse;
-    float: left;
-    left: -40px;
   }
   // .single-timeline:nth-child(even) .t-square {
   //   right: -6px;
