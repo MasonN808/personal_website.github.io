@@ -82,17 +82,17 @@
     }
 
     .force-in-line{
-        display: inline-block;
+        display: block;
     }
 
     .fa-github {
         color: black;
-        display: inline-block;
+        display: inline;
         padding: 5px 0px 0px 10px;
       }
     .fa-linkedin-square {
         color: black;
-        display: inline-block;
+        display: inline;
         padding: 5px 0px 0px 10px;
       }
     .fa-file {
@@ -100,7 +100,7 @@
         right: -7px;
         top: -6px;
         color: black;
-        display: inline-block;
+        display: inline;
         padding: 5px -10px 0px 10x;
         // margin: 5px 0px 10 0px; // add some padding since looks off
     }
