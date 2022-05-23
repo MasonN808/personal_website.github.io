@@ -8,7 +8,7 @@ nav_order: 2
 # Previous Research
 
 ## On the Classification of Networks Using Graph Scattering
-
+information will be added soon.....
 ## On the Inversion-Free Newton Algorithm
 
 ## Metareasoning in Autonomous Systems
