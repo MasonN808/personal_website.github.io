@@ -45,7 +45,7 @@
 
     .picture-column {
         width: 35%;
-        float: left;
+        float: right;
         // position: relative;
         .profile-picture {
             // height: $image-size;
@@ -118,8 +118,9 @@
     // For columns in site
 
     .column {
-        float: left;
+        // float: left;
         position: relative;
+        overflow: hidden;
     }
 
     // .picture-column {
