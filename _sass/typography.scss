@@ -45,6 +45,7 @@
 
     .picture-column {
         width: 35%;
+        float: right;
         // position: relative;
         .profile-picture {
             // height: $image-size;
@@ -57,7 +58,6 @@
 
             padding: 10px 0 0 20px;
             padding-right: 10vw;
-            float: right;
             border-radius: 50%;
 
             p & {
