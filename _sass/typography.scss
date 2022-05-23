@@ -45,7 +45,7 @@
 
     .picture-column {
         width: 35%;
-        float: right;
+        float: left;
         // position: relative;
         .profile-picture {
             // height: $image-size;
@@ -128,7 +128,7 @@
     // }
 
     .text-column {
-        float: left;
+        float: right;
         width: 65%;
         // position: absolute;
         @media (max-width: 1016px) {
