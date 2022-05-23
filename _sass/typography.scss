@@ -121,7 +121,9 @@
     .column {
         // float: left;
         // position: relative;
-        overflow: hidden;
+        // overflow: hidden;
+        margin: 0 auto;
+        text-align: center;
     }
 
     // .picture-column {
