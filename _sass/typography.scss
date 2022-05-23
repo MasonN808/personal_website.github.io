@@ -52,7 +52,7 @@
             object-fit: contain;
             width: 15%;
             height: 15%;
-            position: absolute;
+            // position: absolute;
             // margin: 50px 0 0 140px;
 
             padding: 10px 0 0 20px;
@@ -129,7 +129,7 @@
     .text-column {
         float: left;
         width: 65%;
-        position: absolute;
+        // position: absolute;
         @media (max-width: 1016px) {
             margin: 0 auto; // center picture in middle of screen
             // float: unset;
